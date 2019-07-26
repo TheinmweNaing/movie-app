@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <!--button label-->
+    <string name="btn_movie">Movies</string>
+    <string name="btn_genre">Genre</string>
+    <string name="btn_cast">Cast</string>
+    <string name="btn_fav">Favourite</string>
+
+    <string-array name="occupation">
+        <item>Actor</item>
+        <item>Actress</item>
+    </string-array>
+</resources>
